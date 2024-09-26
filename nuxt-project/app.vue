@@ -4,7 +4,7 @@ defineCustomElements();
 </script>
 
 <script setup>
-import '@coveo/atomic/dist/atomic/themes/coveo.css'
+import '@coveo/atomic/themes/coveo.css'
 import { ref, onMounted } from 'vue'
 
 const el = ref()

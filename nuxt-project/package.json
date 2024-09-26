@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@coveo/atomic": "^2.78.0",
+    "@coveo/atomic": "3.2.3",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
